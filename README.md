@@ -10,6 +10,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0278-first-bad-version](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## String
 |  |
 | ------- |
