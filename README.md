@@ -18,6 +18,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -31,4 +32,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
