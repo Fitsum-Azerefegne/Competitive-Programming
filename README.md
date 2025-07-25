@@ -14,6 +14,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
