@@ -12,6 +12,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0278-first-bad-version](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
+| [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## String
@@ -55,6 +57,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 ## Dynamic Programming
 |  |
 | ------- |
