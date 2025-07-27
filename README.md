@@ -15,6 +15,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
