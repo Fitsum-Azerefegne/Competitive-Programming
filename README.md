@@ -120,8 +120,21 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
