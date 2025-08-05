@@ -132,11 +132,13 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0112-path-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -147,11 +149,13 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0112-path-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
