@@ -123,6 +123,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
@@ -139,6 +140,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Union Find
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
 |  |
