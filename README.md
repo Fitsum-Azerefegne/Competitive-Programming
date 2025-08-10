@@ -15,6 +15,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Tree
@@ -197,6 +201,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
