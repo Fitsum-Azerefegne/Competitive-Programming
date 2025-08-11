@@ -146,6 +146,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -199,6 +202,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Backtracking
@@ -216,4 +220,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
