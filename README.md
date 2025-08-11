@@ -142,6 +142,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -208,4 +212,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
