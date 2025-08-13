@@ -12,6 +12,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
@@ -231,4 +232,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
