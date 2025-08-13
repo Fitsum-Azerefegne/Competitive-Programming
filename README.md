@@ -9,6 +9,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0033-search-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 ## Interactive
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
