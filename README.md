@@ -134,6 +134,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0113-path-sum-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0112-path-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -243,4 +246,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
