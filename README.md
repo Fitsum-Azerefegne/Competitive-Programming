@@ -136,6 +136,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -247,4 +250,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
