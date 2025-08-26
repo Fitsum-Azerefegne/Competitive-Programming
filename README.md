@@ -142,6 +142,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Greedy
@@ -169,6 +170,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -192,6 +194,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -255,5 +258,6 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
