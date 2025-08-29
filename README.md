@@ -138,6 +138,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0207-course-schedule](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0871-keys-and-rooms) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0404-sum-of-left-leaves](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2121-find-if-path-exists-in-graph) |
