@@ -63,6 +63,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
+| [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
@@ -282,4 +283,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
