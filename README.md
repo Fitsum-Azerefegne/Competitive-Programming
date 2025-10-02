@@ -65,6 +65,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -287,4 +288,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
