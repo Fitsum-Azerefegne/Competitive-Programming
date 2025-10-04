@@ -28,6 +28,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 ## Binary Search
@@ -64,6 +65,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
 ## Divide and Conquer
@@ -288,5 +290,14 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
