@@ -30,6 +30,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 ## Binary Search
 |  |
