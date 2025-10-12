@@ -6,6 +6,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
