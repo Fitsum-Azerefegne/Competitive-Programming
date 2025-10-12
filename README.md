@@ -6,6 +6,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 ## Depth-First Search
 |  |
