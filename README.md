@@ -8,6 +8,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0001-two-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
