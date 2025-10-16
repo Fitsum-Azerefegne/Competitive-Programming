@@ -50,6 +50,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
