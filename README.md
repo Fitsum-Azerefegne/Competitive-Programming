@@ -15,6 +15,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
