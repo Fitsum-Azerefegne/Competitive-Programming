@@ -35,6 +35,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 ## Topological Sort
 |  |
 | ------- |
