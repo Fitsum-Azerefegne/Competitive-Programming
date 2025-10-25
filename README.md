@@ -29,6 +29,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -351,4 +353,13 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
