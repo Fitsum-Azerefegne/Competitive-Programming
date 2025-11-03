@@ -16,6 +16,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
