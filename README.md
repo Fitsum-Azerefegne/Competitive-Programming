@@ -24,6 +24,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
