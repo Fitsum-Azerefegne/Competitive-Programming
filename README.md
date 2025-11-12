@@ -72,6 +72,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
+| [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
