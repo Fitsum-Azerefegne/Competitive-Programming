@@ -1,16 +1,15 @@
 class Solution:
     def dividePlayers(self, skill: List[int]) -> int:
-        skill.sort()  
+        skill.sort()
         chemistry = 0
-        left = 0
-        right = len(skill) -1
-        probable = skill[right] + skill[left]
-        while left < right:
-            if (skill[right]+ skill[left]) != probable:
+        start = 0
+        end = len(skill) - 1
+        skills = skill[0] + skill[end]
+        while start < end:
+            if skills != skill[start] + skill[end]:
                 return -1
-            chemistry += (skill[left]*skill[right])
-            left += 1
-            right -= 1
+            chemistry += (skill[start]* skill[end])
+            start += 1
+            end -= 1
         return chemistry
-
-        
+      
