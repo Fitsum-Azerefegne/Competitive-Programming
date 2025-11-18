@@ -41,6 +41,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
+| [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
@@ -221,6 +224,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
+| [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
 ## Depth-First Search
 |  |
