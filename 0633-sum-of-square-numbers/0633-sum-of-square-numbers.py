@@ -1,13 +1,16 @@
 import math
 class Solution:
     def judgeSquareSum(self, c: int) -> bool:
-        start, end = 0, int(math.isqrt(c))
+        start  = 0
+        end = int(math.isqrt(c))
         while start <= end:
-            summ = ((start**2) + (end**2)) 
-            if summ == c :
-                return True
-            elif summ > c:
+            if (start **2 + end **2) > c:
                 end -= 1
-            else:
+            elif (start **2 + end **2) < c:
                 start += 1
+            else:
+                return True
         return False
+
+
+       
