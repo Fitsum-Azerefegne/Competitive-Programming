@@ -50,6 +50,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1539-kth-missing-positive-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2210-count-hills-and-valleys-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Interactive
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Topological Sort
 |  |
 | ------- |
