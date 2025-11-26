@@ -47,6 +47,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1539-kth-missing-positive-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 ## Topological Sort
 |  |
