@@ -48,6 +48,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1539-kth-missing-positive-number) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
