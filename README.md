@@ -51,6 +51,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
