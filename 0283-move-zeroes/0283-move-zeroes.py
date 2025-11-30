@@ -3,10 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        read = 0
-        write = 0 
-        while read <= len(nums) - 1:
+        read = write = 0
+        while read < len(nums):
             if nums[read] != 0:
-                nums[read], nums[write] = nums[write], nums[read]
-                write += 1
-            read += 1
+                nums[read],nums[write] = nums[write],nums[read]
+                write +=1
+            read +=1
