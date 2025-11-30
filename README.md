@@ -11,6 +11,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0015-3sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0088-merge-sorted-array) |
