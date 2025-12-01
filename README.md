@@ -36,6 +36,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
+| [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1603-running-sum-of-1d-array) |
