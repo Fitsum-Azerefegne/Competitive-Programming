@@ -63,6 +63,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Design
 |  |
 | ------- |
