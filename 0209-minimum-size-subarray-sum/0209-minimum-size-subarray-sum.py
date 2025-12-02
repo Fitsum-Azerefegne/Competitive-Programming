@@ -5,13 +5,20 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        start = 0
-        subarray_sum = 0
-        output = float("inf")
-        for end in range(len(nums)):
-            subarray_sum += nums[end]
-            while subarray_sum >= target:
-                output = min(output, end - start + 1)
-                subarray_sum -= nums[start]
-                start += 1
-        return 0 if output == float("inf") else output
+        minimal_length = float("inf")
+        left = 0
+        curr_sum = 0
+        for right in range(len(nums)):
+            curr_sum += nums[right]
+            while curr_sum >= target:
+                minimal_length = min(minimal_length, (right-left+1))
+                curr_sum -= nums[left]
+                left += 1
+        if minimal_length != float("inf"):
+            return minimal_length
+        else:
+            return 0 
+            
+            
+
+
