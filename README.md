@@ -17,6 +17,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -196,6 +198,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
