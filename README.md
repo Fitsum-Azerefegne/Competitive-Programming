@@ -37,6 +37,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0475-heaters) |
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 ## Design
 |  |
 | ------- |
