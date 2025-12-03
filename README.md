@@ -421,6 +421,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
 ## Segment Tree
@@ -435,4 +436,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
