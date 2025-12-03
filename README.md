@@ -93,6 +93,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
@@ -430,4 +431,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
