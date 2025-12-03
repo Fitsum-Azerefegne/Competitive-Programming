@@ -101,6 +101,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3174-clear-digits](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3174-clear-digits) |
 ## Interactive
 |  |
 | ------- |
@@ -397,6 +398,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3174-clear-digits](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3174-clear-digits) |
 | [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
 ## Recursion
 |  |
@@ -437,4 +439,5 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0155-min-stack) |
+| [3174-clear-digits](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
