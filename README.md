@@ -28,6 +28,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Sorting
@@ -138,6 +140,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -240,6 +244,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 ## Graph
 |  |
