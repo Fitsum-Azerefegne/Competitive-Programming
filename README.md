@@ -98,6 +98,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
