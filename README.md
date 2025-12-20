@@ -102,6 +102,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
