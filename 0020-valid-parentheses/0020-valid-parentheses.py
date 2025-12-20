@@ -1,23 +1,23 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         bracket_hash = {
-            "(": ")",
-            "[": "]",
-            "{": "}"
+            "(":")",
+            "{":"}",
+            "[":"]"
         }
-        stack = []
+        brackets = []
         for bracket in s:
             if bracket in bracket_hash.keys():
-                stack.append(bracket)
+                brackets.append(bracket)
             else:
-                if stack:
-                    prev = stack.pop()
-                    if bracket_hash[prev] != bracket:
+                if brackets:
+                    if bracket_hash[brackets.pop()] != bracket:
                         return False
                 else:
                     return False
-        if not stack:
-            return True
-        else:
+        if len(brackets) != 0:
             return False
-       
+        return True
+
+
+      
