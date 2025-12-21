@@ -470,5 +470,6 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
