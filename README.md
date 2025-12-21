@@ -444,6 +444,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0155-min-stack](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
 ## Segment Tree
 |  |
@@ -464,4 +465,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
