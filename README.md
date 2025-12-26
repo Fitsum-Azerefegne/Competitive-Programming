@@ -424,6 +424,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -471,6 +472,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
