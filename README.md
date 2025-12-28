@@ -32,6 +32,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 ## Merge Sort
@@ -434,6 +436,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
@@ -445,6 +448,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0003-longest-substring-without-repeating-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -483,4 +487,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
