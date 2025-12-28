@@ -114,6 +114,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0237-delete-node-in-a-linked-list) |
