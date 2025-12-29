@@ -56,6 +56,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1036-rotting-oranges](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0611-valid-triangle-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
+| [1029-two-city-scheduling](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1029-two-city-scheduling) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
 ## Depth-First Search
 |  |
