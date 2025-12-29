@@ -50,6 +50,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0733-flood-fill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0733-flood-fill) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0792-binary-search) |
+| [0812-largest-triangle-area](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0812-largest-triangle-area) |
 | [0917-boats-to-save-people](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0633-sum-of-square-numbers) |
+| [0812-largest-triangle-area](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0812-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
@@ -491,4 +493,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
