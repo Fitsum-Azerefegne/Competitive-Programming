@@ -19,6 +19,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0042-trapping-rain-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0088-merge-sorted-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0005-longest-palindromic-substring](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0198-house-robber) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0455-assign-cookies) |
