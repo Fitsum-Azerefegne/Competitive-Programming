@@ -123,6 +123,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | ------- |
 | [0002-add-two-numbers](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
