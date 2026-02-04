@@ -132,6 +132,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0812-largest-triangle-area](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0812-largest-triangle-area) |
 | [1642-water-bottles](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2413-smallest-even-multiple](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2469-convert-the-temperature) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3336-water-bottles-ii) |
@@ -510,4 +511,8 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0812-largest-triangle-area) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
