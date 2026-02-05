@@ -74,6 +74,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1829-maximum-units-on-a-truck) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3321-type-of-triangle](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
@@ -207,6 +209,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -265,6 +268,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Bit Manipulation
