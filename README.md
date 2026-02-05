@@ -110,6 +110,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0020-valid-parentheses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0219-contains-duplicate-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
