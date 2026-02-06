@@ -63,6 +63,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1539-kth-missing-positive-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1039-find-the-town-judge](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1039-find-the-town-judge) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
