@@ -113,6 +113,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0742-to-lower-case](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0948-sort-an-array) |
 | [1051-height-checker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1051-height-checker) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0768-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Enumeration
 |  |
