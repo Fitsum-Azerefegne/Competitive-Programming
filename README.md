@@ -34,6 +34,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0387-first-unique-character-in-a-string) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0169-majority-element](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0299-bulls-and-cows) |
