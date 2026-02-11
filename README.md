@@ -291,6 +291,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2671-frequency-tracker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2671-frequency-tracker) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -505,6 +506,7 @@ A collection of LeetCode questions that helps to study DSA. - Created using [Lee
 | [0303-range-sum-query-immutable](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0707-design-linked-list) |
 | [0729-my-calendar-i](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/0729-my-calendar-i) |
+| [2671-frequency-tracker](https://github.com/Fitsum-Azerefegne/Competitive-Programming/tree/master/2671-frequency-tracker) |
 ## Segment Tree
 |  |
 | ------- |
